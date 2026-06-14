@@ -1,0 +1,4 @@
+layer,required_quantities,countries,n
+core_Z1_scaling,Sigma;X;I;H;Z1;R2009;D_C;Fu diagnostics,"CAN, DEU, DNK, ESP, FIN, FRA, GBR, IRL, ITA, JPN, NLD, SWE, USA",13
+extended_WDI_diagnostic,D_C;Fu_post;Delta_Fu from WDI time series,"CAN, DEU, DNK, ESP, FIN, FRA, GBR, IRL, ITA, JPN, NLD, SWE, USA, AUT, BEL, CHE",16
+reference_only,static stabilizer/exposure values; not in regression,ISR,1

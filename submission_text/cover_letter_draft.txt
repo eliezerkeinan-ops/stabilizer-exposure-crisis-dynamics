@@ -1,0 +1,12 @@
+Dear Editors,
+
+I am pleased to submit the manuscript "Thresholded Stabilizer--Exposure Scaling and Two-Mode Crisis Response in Economic Systems" for consideration as a Research Article in PLOS Complex Systems.
+
+The manuscript proposes a low-dimensional complex-systems framing for economic crisis response. It combines a dimensionless stabilizer-to-exposure coordinate with a two-mode normal form separating tangential growth motion from transverse crisis displacement. The empirical layer uses a transparent OECD 2008--2009 pilot to test whether exposure-normalized stabilization organizes shock absorption and crisis depth-duration better than stabilizer size alone.
+
+The contribution is not a causal macroeconomic identification exercise. Rather, it is a diagnostic scaling and reduced dynamical representation for thresholded response in a complex socioeconomic system. The manuscript is therefore aligned with the journal's interest in dynamical systems, nonlinear systems, economics, risk modeling, and complex-system responses.
+
+The submission includes processed reproducibility datasets, figure-generation scripts, household-debt threshold-sensitivity scripts, and source documentation.
+
+Sincerely,
+Eliezer Keinan

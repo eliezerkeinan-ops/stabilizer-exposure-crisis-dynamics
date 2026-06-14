@@ -1,0 +1,5 @@
+When a car has strong brakes, that does not mean it can climb the next hill quickly. Economic stabilizers can work in a similar way. Public transfers and other stable spending streams may soften the initial fall during a crisis, but recovery also depends on the size of the shock and on the exposures that remain after the fall.
+
+This paper asks how large a stabilizer is relative to the load it must absorb. I use a simple ratio that compares public social expenditure with exports, investment exposure, and household debt above a threshold. The threshold is included because household debt is not necessarily harmful at low levels, but high debt can slow recovery when households must repair balance sheets after a shock.
+
+The paper then interprets this ratio with a two-mode dynamical model. One mode describes crisis displacement away from a normal path; the other describes movement along the growth path. The same stable reservoir can help in the crisis mode but also create inertia in the growth mode. The result is a compact complex-systems description of why stability can be protective and inertial at the same time.
