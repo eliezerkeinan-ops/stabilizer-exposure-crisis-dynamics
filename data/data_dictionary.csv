@@ -1,0 +1,137 @@
+file,column,description
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,code,ISO-3 country code used for labels and joins.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,country,Country name.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,exports_gdp,Exports of goods and services as percent of GDP.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,gfcf_gdp,Gross fixed capital formation as percent of GDP.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,gdp_growth_2009,"Annual real GDP growth rate in 2009, percent."
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,hh_cons_growth_2009,"Annual household final consumption growth in 2009, percent."
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Sigma_socx_gdp,Public social expenditure as percent of GDP; narrow empirical proxy for stabilizer reservoir size.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,H_household_debt_gdp,Household credit/debt as percent of GDP from BIS total-credit statistics.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,R_buffer_2009,Shock-year relative-insulation coordinate for 2009 consumption response.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Exposure_unweighted,"Lowest-order linear exposure proxy X + I + H using exports, investment, and household debt terms."
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z0,Baseline stabilizer-to-exposure ratio using Sigma_socx_gdp divided by Exposure_unweighted.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,D_hh_cons_growth_2008_2013,Household-consumption depth-duration diagnostic over the 2008-2013 window.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,max_gap_hh_cons_growth_2008_2013,Maximum household-consumption growth gap over the 2008-2013 window.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Exposure_unweighted_trueH,Exposure proxy using the true household-debt input before thresholding.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z0_trueH,Stabilizer-to-exposure ratio using the true household-debt input before thresholding.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_trueH_Hc50,Thresholded stabilizer-to-exposure ratio using true household debt and Hc=50% of GDP.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_trueH_Hc60,Thresholded stabilizer-to-exposure ratio using true household debt and Hc=60% of GDP.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_trueH_Hc70,Thresholded stabilizer-to-exposure ratio using true household debt and Hc=70% of GDP.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_trueH_Hc80,Thresholded stabilizer-to-exposure ratio using true household debt and Hc=80% of GDP.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_trueH_Hc90,Thresholded stabilizer-to-exposure ratio using true household debt and Hc=90% of GDP.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_trueH_Hc100,Thresholded stabilizer-to-exposure ratio using true household debt and Hc=100% of GDP.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Sigma_source,Indicator describing whether the stabilizer proxy came from the narrow OECD SOCX construction or another processed source.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Exposure_unweighted_oecdSigma_trueH,Exposure proxy paired with the OECD-SOCX stabilizer construction and true household-debt input.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z0_oecdSigma_trueH,Stabilizer-to-exposure ratio using OECD SOCX Sigma and true household-debt input before thresholding.
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_oecdSigma_trueH_Hc50,"Thresholded stabilizer-to-exposure ratio using OECD SOCX Sigma, true household debt, and Hc=50% of GDP."
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_oecdSigma_trueH_Hc60,"Thresholded stabilizer-to-exposure ratio using OECD SOCX Sigma, true household debt, and Hc=60% of GDP."
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_oecdSigma_trueH_Hc70,"Thresholded stabilizer-to-exposure ratio using OECD SOCX Sigma, true household debt, and Hc=70% of GDP."
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_oecdSigma_trueH_Hc80,"Thresholded stabilizer-to-exposure ratio using OECD SOCX Sigma, true household debt, and Hc=80% of GDP."
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_oecdSigma_trueH_Hc90,"Thresholded stabilizer-to-exposure ratio using OECD SOCX Sigma, true household debt, and Hc=90% of GDP."
+stabilizer_exposure_dataset_OECDsigma_BISH.csv,Z1_oecdSigma_trueH_Hc100,"Thresholded stabilizer-to-exposure ratio using OECD SOCX Sigma, true household debt, and Hc=100% of GDP."
+Fu_country_table.csv,code,ISO-3 country code used for labels and joins.
+Fu_country_table.csv,country,Country name.
+Fu_country_table.csv,g_2009,"Annual real GDP growth in 2009, percent."
+Fu_country_table.csv,g_2010,"Annual real GDP growth in 2010, percent."
+Fu_country_table.csv,F_u_pre_proxy,"Pre-crisis tangential growth-forcing proxy, computed from pre-2008 real GDP growth."
+Fu_country_table.csv,F_u_post_proxy_2011_2013,"Post-rebound tangential growth-forcing proxy, mean real GDP growth over 2011-2013."
+Fu_country_table.csv,F_u_post_proxy_2011_2012,"Alternative post-rebound growth-forcing proxy, mean real GDP growth over 2011-2012."
+Fu_country_table.csv,Delta_Fu_post_minus_pre,"Change in growth-forcing proxy: post-rebound value minus pre-crisis value, in percentage points."
+Fu_country_table.csv,Fu_retention_ratio,Ratio-style retention measure comparing post-rebound and pre-crisis growth proxy.
+Fu_country_table.csv,A_g_rebound_2010_minus_2009,Immediate GDP rebound proxy: real GDP growth in 2010 minus real GDP growth in 2009.
+Fu_country_table.csv,D_C_frac_2008_2015,"Consumption crisis depth-duration coordinate over 2008-2015, in fractional units."
+Fu_country_table.csv,R_buffer_2009,Shock-year relative-insulation coordinate for 2009 consumption response.
+Fu_country_table.csv,Z1_Hc60,Backwards-compatible alias mirroring canonical Z1_trueH_Hc60 in this package; canonical source is stabilizer_exposure_dataset_OECDsigma_BISH.csv.
+Fu_country_table.csv,Sigma_socx_gdp,Public social expenditure as percent of GDP; narrow empirical proxy for stabilizer reservoir size.
+Fu_country_table.csv,H_household_debt_gdp,Household credit/debt as percent of GDP from BIS total-credit statistics.
+Fu_country_table.csv,H_frag_60,Thresholded household-debt fragility term [H - 60]_+.
+Fu_country_table.csv,gdp_growth_2009,"Annual real GDP growth rate in 2009, percent."
+Fu_country_table.csv,archetype,Qualitative country archetype assigned from the stabilizer/exposure and crisis-response diagnostics.
+country_archetypes_table.csv,code,ISO-3 country code used for labels and joins.
+country_archetypes_table.csv,country,Country name.
+country_archetypes_table.csv,archetype,Qualitative country archetype assigned from the stabilizer/exposure and crisis-response diagnostics.
+country_archetypes_table.csv,Sigma_socx_gdp,Public social expenditure as percent of GDP; narrow empirical proxy for stabilizer reservoir size.
+country_archetypes_table.csv,exports_gdp,Exports of goods and services as percent of GDP.
+country_archetypes_table.csv,gfcf_gdp,Gross fixed capital formation as percent of GDP.
+country_archetypes_table.csv,H_household_debt_gdp,Household credit/debt as percent of GDP from BIS total-credit statistics.
+country_archetypes_table.csv,H_frag_60,Thresholded household-debt fragility term [H - 60]_+.
+country_archetypes_table.csv,Z1_Hc60,Backwards-compatible alias mirroring canonical Z1_trueH_Hc60 in this package; canonical source is stabilizer_exposure_dataset_OECDsigma_BISH.csv.
+country_archetypes_table.csv,Z0_linear_H,Linear-household-debt version of the stabilizer-to-exposure ratio.
+country_archetypes_table.csv,R_buffer_2009,Shock-year relative-insulation coordinate for 2009 consumption response.
+country_archetypes_table.csv,D_C_frac_2008_2015,"Consumption crisis depth-duration coordinate over 2008-2015, in fractional units."
+dynamic_recovery_crisis_countries.csv,code,ISO-3 country code used for labels and joins.
+dynamic_recovery_crisis_countries.csv,country,Country name.
+dynamic_recovery_crisis_countries.csv,exports_gdp,Exports of goods and services as percent of GDP.
+dynamic_recovery_crisis_countries.csv,gfcf_gdp,Gross fixed capital formation as percent of GDP.
+dynamic_recovery_crisis_countries.csv,gdp_growth_2009,"Annual real GDP growth rate in 2009, percent."
+dynamic_recovery_crisis_countries.csv,hh_cons_growth_2009,"Annual household final consumption growth in 2009, percent."
+dynamic_recovery_crisis_countries.csv,Sigma_socx_gdp,Public social expenditure as percent of GDP; narrow empirical proxy for stabilizer reservoir size.
+dynamic_recovery_crisis_countries.csv,H_household_debt_gdp,Household credit/debt as percent of GDP from BIS total-credit statistics.
+dynamic_recovery_crisis_countries.csv,R_buffer_2009,Shock-year relative-insulation coordinate for 2009 consumption response.
+dynamic_recovery_crisis_countries.csv,Exposure_unweighted,"Lowest-order linear exposure proxy X + I + H using exports, investment, and household debt terms."
+dynamic_recovery_crisis_countries.csv,Z0,Baseline stabilizer-to-exposure ratio using Sigma_socx_gdp divided by Exposure_unweighted.
+dynamic_recovery_crisis_countries.csv,D_hh_cons_growth_2008_2013,Household-consumption depth-duration diagnostic over the 2008-2013 window.
+dynamic_recovery_crisis_countries.csv,max_gap_hh_cons_growth_2008_2013,Maximum household-consumption growth gap over the 2008-2013 window.
+dynamic_recovery_crisis_countries.csv,Z1_Hc50,Backwards-compatible alias mirroring canonical Z1_trueH_Hc50 in this package; canonical source is stabilizer_exposure_dataset_OECDsigma_BISH.csv.
+dynamic_recovery_crisis_countries.csv,Z1_Hc60,Backwards-compatible alias mirroring canonical Z1_trueH_Hc60 in this package; canonical source is stabilizer_exposure_dataset_OECDsigma_BISH.csv.
+dynamic_recovery_crisis_countries.csv,Z1_Hc70,Backwards-compatible alias mirroring canonical Z1_trueH_Hc70 in this package; canonical source is stabilizer_exposure_dataset_OECDsigma_BISH.csv.
+dynamic_recovery_crisis_countries.csv,Z1_Hc80,Backwards-compatible alias mirroring canonical Z1_trueH_Hc80 in this package; canonical source is stabilizer_exposure_dataset_OECDsigma_BISH.csv.
+dynamic_recovery_crisis_countries.csv,Z1_Hc90,Backwards-compatible alias mirroring canonical Z1_trueH_Hc90 in this package; canonical source is stabilizer_exposure_dataset_OECDsigma_BISH.csv.
+dynamic_recovery_crisis_countries.csv,Z1_Hc100,Backwards-compatible alias mirroring canonical Z1_trueH_Hc100 in this package; canonical source is stabilizer_exposure_dataset_OECDsigma_BISH.csv.
+dynamic_recovery_crisis_countries.csv,D_C_frac_2008_2015,"Consumption crisis depth-duration coordinate over 2008-2015, in fractional units."
+dynamic_recovery_crisis_countries.csv,max_gap_C_frac_2008_2015,Maximum fractional consumption gap over the 2008-2015 crisis window.
+dynamic_recovery_crisis_countries.csv,T_C_level_years,Consumption-level recovery time diagnostic in years.
+dynamic_recovery_crisis_countries.csv,T_C_trend_years,Consumption trend-recovery time diagnostic in years.
+dynamic_recovery_crisis_countries.csv,D_Y_frac_2008_2015,"GDP crisis depth-duration coordinate over 2008-2015, in fractional units."
+dynamic_recovery_crisis_countries.csv,max_gap_Y_frac_2008_2015,Maximum fractional GDP gap over the 2008-2015 crisis window.
+dynamic_recovery_crisis_countries.csv,T_Y_level_years,GDP-level recovery time diagnostic in years.
+dynamic_recovery_crisis_countries.csv,T_Y_trend_years,GDP trend-recovery time diagnostic in years.
+dynamic_recovery_crisis_countries.csv,B_T_depth_buffer,Depth-buffer diagnostic combining crisis depth and stabilizer buffer information.
+dynamic_recovery_crisis_countries.csv,U_max_minus_pre_mean,Maximum unemployment increase relative to pre-crisis mean unemployment.
+hc_sensitivity_table.csv,Hc_%,"Household-debt threshold value used to compute the thresholded fragility term, percent of GDP."
+hc_sensitivity_table.csv,n,Number of countries/observations used in the reported statistic.
+hc_sensitivity_table.csv,pearson_R2009,Pearson correlation between Z1 and the R2009 shock-year relative-insulation coordinate.
+hc_sensitivity_table.csv,pearson_p_R2009,Two-sided p-value for the Pearson Z1-R2009 correlation.
+hc_sensitivity_table.csv,CI95_lo_R2009,Lower endpoint of the approximate 95 percent Fisher-z confidence interval for the Z1-R2009 Pearson correlation.
+hc_sensitivity_table.csv,CI95_hi_R2009,Upper endpoint of the approximate 95 percent Fisher-z confidence interval for the Z1-R2009 Pearson correlation.
+hc_sensitivity_table.csv,spearman_R2009,Spearman rank correlation between Z1 and R2009.
+hc_sensitivity_table.csv,spearman_p_R2009,Two-sided p-value for the Spearman Z1-R2009 correlation.
+hc_sensitivity_table.csv,LOO_min_pearson_R2009,Minimum leave-one-country-out Pearson correlation for Z1-R2009.
+hc_sensitivity_table.csv,LOO_max_pearson_R2009,Maximum leave-one-country-out Pearson correlation for Z1-R2009.
+hc_sensitivity_table.csv,LOO_sign_preserved_R2009,Whether all leave-one-country-out Z1-R2009 Pearson correlations preserve the baseline sign.
+hc_sensitivity_table.csv,pearson_DC,Pearson correlation between Z1 and the consumption depth-duration coordinate D_C.
+hc_sensitivity_table.csv,pearson_p_DC,Two-sided p-value for the Pearson Z1-D_C correlation.
+hc_sensitivity_table.csv,CI95_lo_DC,Lower endpoint of the approximate 95 percent Fisher-z confidence interval for the Z1-D_C Pearson correlation.
+hc_sensitivity_table.csv,CI95_hi_DC,Upper endpoint of the approximate 95 percent Fisher-z confidence interval for the Z1-D_C Pearson correlation.
+hc_sensitivity_table.csv,spearman_DC,Spearman rank correlation between Z1 and D_C.
+hc_sensitivity_table.csv,spearman_p_DC,Two-sided p-value for the Spearman Z1-D_C correlation.
+hc_sensitivity_table.csv,LOO_min_pearson_DC,Minimum leave-one-country-out Pearson correlation for Z1-D_C.
+hc_sensitivity_table.csv,LOO_max_pearson_DC,Maximum leave-one-country-out Pearson correlation for Z1-D_C.
+hc_sensitivity_table.csv,LOO_sign_preserved_DC,Whether all leave-one-country-out Z1-D_C Pearson correlations preserve the baseline sign.
+hc_sensitivity_leave_one_out.csv,Hc_%,"Household-debt threshold value used to compute the thresholded fragility term, percent of GDP."
+hc_sensitivity_leave_one_out.csv,outcome,Name of the outcome variable summarized in a sensitivity or leave-one-out row.
+hc_sensitivity_leave_one_out.csv,dropped,Country code omitted in the corresponding leave-one-out calculation.
+hc_sensitivity_leave_one_out.csv,pearson_r,Pearson correlation coefficient for the row-specific variable pair.
+hc_sensitivity_leave_one_out.csv,pearson_p,Two-sided p-value for the row-specific Pearson correlation.
+hc_sensitivity_leave_one_out.csv,spearman_rho,Spearman rank-correlation coefficient for the row-specific variable pair.
+hc_sensitivity_leave_one_out.csv,spearman_p,Two-sided p-value for the row-specific Spearman correlation.
+hc_sensitivity_leave_one_out.csv,n,Number of countries/observations used in the reported statistic.
+country_archetypes_table.csv,Z1_trueH_Hc50,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=50% of GDP.
+country_archetypes_table.csv,Z1_trueH_Hc60,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=60% of GDP.
+country_archetypes_table.csv,Z1_trueH_Hc70,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=70% of GDP.
+country_archetypes_table.csv,Z1_trueH_Hc80,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=80% of GDP.
+country_archetypes_table.csv,Z1_trueH_Hc90,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=90% of GDP.
+country_archetypes_table.csv,Z1_trueH_Hc100,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=100% of GDP.
+Fu_country_table.csv,Z1_trueH_Hc50,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=50% of GDP.
+Fu_country_table.csv,Z1_trueH_Hc60,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=60% of GDP.
+Fu_country_table.csv,Z1_trueH_Hc70,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=70% of GDP.
+Fu_country_table.csv,Z1_trueH_Hc80,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=80% of GDP.
+Fu_country_table.csv,Z1_trueH_Hc90,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=90% of GDP.
+Fu_country_table.csv,Z1_trueH_Hc100,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=100% of GDP.
+dynamic_recovery_crisis_countries.csv,Z1_trueH_Hc50,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=50% of GDP.
+dynamic_recovery_crisis_countries.csv,Z1_trueH_Hc60,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=60% of GDP.
+dynamic_recovery_crisis_countries.csv,Z1_trueH_Hc70,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=70% of GDP.
+dynamic_recovery_crisis_countries.csv,Z1_trueH_Hc80,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=80% of GDP.
+dynamic_recovery_crisis_countries.csv,Z1_trueH_Hc90,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=90% of GDP.
+dynamic_recovery_crisis_countries.csv,Z1_trueH_Hc100,Canonical thresholded stabilizer-to-exposure ratio from stabilizer_exposure_dataset_OECDsigma_BISH.csv using true household debt and Hc=100% of GDP.
+GLOBAL,canonical_Z1_source,All manuscript correlations and Z1-based figures use Z1_trueH_Hc* from stabilizer_exposure_dataset_OECDsigma_BISH.csv as the source of truth; derived tables carry copied canonical columns for plotting.

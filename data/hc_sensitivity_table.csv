@@ -1,0 +1,4 @@
+Hc_%,n,pearson_R2009,pearson_p_R2009,CI95_lo_R2009,CI95_hi_R2009,spearman_R2009,spearman_p_R2009,LOO_min_pearson_R2009,LOO_max_pearson_R2009,LOO_sign_preserved_R2009,pearson_DC,pearson_p_DC,CI95_lo_DC,CI95_hi_DC,spearman_DC,spearman_p_DC,LOO_min_pearson_DC,LOO_max_pearson_DC,LOO_sign_preserved_DC
+50,13,0.564,0.045,0.019,0.851,0.593,0.033,0.479,0.645,True,-0.355,0.233,-0.758,0.243,-0.407,0.168,-0.475,-0.21,True
+60,13,0.612,0.026,0.092,0.87,0.604,0.029,0.527,0.678,True,-0.405,0.17,-0.782,0.188,-0.451,0.122,-0.543,-0.256,True
+70,13,0.584,0.036,0.049,0.859,0.604,0.029,0.479,0.655,True,-0.381,0.199,-0.77,0.215,-0.451,0.122,-0.534,-0.203,True
